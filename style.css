@@ -1,0 +1,102 @@
+table {
+    border-collapse: collapse;
+	font-family: arial;
+/*	float: left;
+	margin-left: -418px;
+	margin-top: 45px;	*/
+}
+.table {
+/*
+	float: left;	
+	margin-top: 105px;
+	margin-left: -15%;
+*/
+	clear: both;
+}
+
+table, td, th {
+    border: 2px solid black;
+	width: 50px;
+	/*font-size: small;*/
+}
+
+#table th {
+	min-width: 120px;
+}
+
+.text {
+	text-outline: 0px 0px #ff0000;
+/*	border: none; */
+	width: 100px;	
+}
+
+#startDate, #endDate {
+	color: red;
+}
+
+.ui-datepicker {
+	width: 10em !important;
+}
+ 
+.ui-datepicker table  {
+	border-collapse: collapse !important; 
+	  width: 56% !important;
+}
+
+.ui-datepicker .ui-datepicker-header  {
+	padding: 0 !important;
+}
+
+.ui-widget-content  {
+	border: none !important;
+}
+
+.week-picker {
+	width: 15%;
+	float: left;
+}
+.week {
+	width: 75%;
+	float: right;
+	margin-top: 10%;
+}
+.test {
+  float: right;
+}
+
+#top-nav {
+	/* width: 50%;	*/
+}
+
+#top-nav li {
+	float: left;
+	margin: 0px 0px 10px 20px;
+	font-size: 1.5em;
+} 
+
+#shopping-list {
+	float: left;
+	width: 23%;
+	height: 70%;
+	margin-right: 10px;
+	margin-bottom:10px;
+}
+
+.button {
+	width: 200px; height: 50px; font-size: large; 
+}
+
+#logout {
+	float: right;
+}
+
+#logout {
+  margin-top: -66px;
+}
+
+.hello {
+	/*	width: 50%; */
+        margin-top: 20px;
+	/*	margin-bottom:5px; */
+}
+
